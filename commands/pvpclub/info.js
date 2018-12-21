@@ -21,7 +21,7 @@ class infoCommand extends commando.Command {
       message.channel.send({embed: new Discord.RichEmbed()
         .setColor("#4286f4")
         .setTitle("**PvPClub | Information**")
-        .addField("**__Server IP__**", "as.pvp.club")
+        .addField("**__Server IP__**", "pvpclub.club")
         .addField("**__Webstore__**", "soon")
         .addField("**__Discord__**", "https://discord.gg/UVxBSGt")
         .addField("**__Twitter__**", "soon")})
